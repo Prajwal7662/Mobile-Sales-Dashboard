@@ -56,8 +56,15 @@ Drill-through pages
 Report tooltips
 
 📁 Folder Structure
+
 📦Mobile-Sales-Dashboard/
+
 ├── 📂 dashboard/     # Power BI .pbix file
+
 ├── 📂 dataset/       # Raw Excel data files
+
 ├── 📂 screenshot/    # PNG/JPG screenshots of the dashboard
+
 └── README.md         # Project overview and instructions
+
+
