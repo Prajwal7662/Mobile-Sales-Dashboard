@@ -8,7 +8,6 @@ The Mobile Sales Dashboard is a beginner-friendly, step-by-step Power BI project
 Whether you're a Power BI beginner or someone looking to reinforce your data modeling and visualization skills, this project demonstrates best practices for building a professional-grade dashboard.
 
 ---
-
 🎯 Screenshots
 
 <p align="center">
