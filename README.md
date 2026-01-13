@@ -11,7 +11,7 @@ Whether you're a Power BI beginner or someone looking to reinforce your data mod
 🎯 Screenshots
 
 <p align="center">
-  <img src="(screenshots/1.png)" alt="Dashboard Page 1" width="100%"/>
+  <img src="screenshots/1.png" alt="Dashboard Page 1" width="100%"/>
 </p>
 
 <p align="center">
