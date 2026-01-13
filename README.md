@@ -15,11 +15,11 @@ Whether you're a Power BI beginner or someone looking to reinforce your data mod
 </p>
 
 <p align="center">
-  <img src="(screenshots/2.png)" alt="Dashboard Page 2" width="100%"/>
+  <img src="screenshots/2.png" alt="Dashboard Page 2" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="(screenshots/3.png)" alt="Dashboard Page 3" width="100%"/>
+  <img src="screenshots/3.png" alt="Dashboard Page 3" width="100%"/>
 </p>
 
 ---
